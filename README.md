@@ -2,7 +2,7 @@ Pharma (XPH) is a PoS-based cryptocurrency.
 
 Last POW Block: 10080
 POW Reward: Blocks 0-1440 : 0 XPH,  Blocks 1441-10080 : 10000 XPH per Block
-PoS start Block: 7000
+PoS start Block: 9700
 POS Reward: 15% annual
 Block Spacing: 30 Seconds
 Maturity: 200 Blocks
